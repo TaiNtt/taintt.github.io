@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ra trường chưa có việc làm
-tags: [jekyll, syntax]
 categories:
 - blog
 ---
