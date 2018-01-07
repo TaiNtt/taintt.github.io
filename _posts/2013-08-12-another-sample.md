@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another sample
+title: Đang là sanh viên năm 3
 tags: [jekyll, syntax]
 categories:
 - blog
@@ -16,18 +16,13 @@ chia, **wayfarers** swag raw denim hashtag biodiesel occupy gastropub!
 
 ---
 
-# It's all in the game.
+# Lúc này là thời điểm trả nợ ngập mặt.
 
 ## You come at the king, you best not miss.
 
 ### Be subtle with it, man. You know what subtle means?
 
-VHS post-ironic cred **bespoke** banjo. Yr wayfarers literally gentrify, flexitarian fap 
-dreamcatcher plaid cornhole Intelligentsia paleo. Beard try-hard direct trade, shabby chic 
-Helvetica `look ma, I can code`. Lo-fi American Apparel tattooed [Vice](#) tofu, yr vinyl. 
-Williamsburg butcher hella mumblecore fixie mlkshk, cliche wolf keytar mixtape kitsch banh mi 
-salvia. High Life Odd Future *chambray* kale chips hoodie, cray pop-up. Helvetica narwhal 
-iPhone try-hard jean shorts.
+
 
 > This is a quote from someone famous about productivity
 
