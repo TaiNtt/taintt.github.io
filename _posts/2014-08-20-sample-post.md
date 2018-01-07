@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample post
+title: Tốt nghiệp xong
 tags: [code, jekyll]
 categories:
 - blog
@@ -16,7 +16,7 @@ chia, **wayfarers** swag raw denim hashtag biodiesel occupy gastropub!
 
 ---
 
-# It's all in the game.
+# Tốt nghiệp rồi về mẹ nuôi sao?.
 
 ## You come at the king, you best not miss.
 
